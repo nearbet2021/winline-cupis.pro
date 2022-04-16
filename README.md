@@ -1,1 +1,0 @@
-# winline-cupis.pro
